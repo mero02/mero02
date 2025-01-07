@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Mauro Gaspar San Pedro
+# 👋 ¡Hola! Soy Mauro San Pedro
 
 💻 **Desarrollador Full Stack en formación** | 🎓 **Estudiante avanzado de Licenciatura en Sistemas**
 
