@@ -30,11 +30,10 @@
 
 ## 🚀 Proyectos destacados
 
-- [**Gestion Turismo C**](https://github.com/mero02/TpFinalC2024): Trabajo práctico final de laboratorio de lenguajes y programación. *(C)*
 - [**Gestion Turismo C#**](https://github.com/mero02/tpfinalCsharp): Trabajo práctico final de laboratorio de lenguajes y programación. *(C#)*
 - [**Extractor de Patentes**](https://github.com/mero02/FTI-Extractor-Patentes): Proyecto para análisis de datos sobre patentes. *(Flask y Bootstrap)*
 - [**Red de Monitoreo Ambiental**](https://github.com/UNPSJB/RMA-grupo-4): Proyecto para análisis de datos sobre patentes. *(FastAPI y React)*
-- 
+
 ---
 
 ### 🌟 Sobre mí:
