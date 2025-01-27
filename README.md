@@ -5,7 +5,7 @@
 ---
 
 ## 📫 Conéctate conmigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maurogasparsanpedro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mauro-san-pedro)
 
 ---
 
