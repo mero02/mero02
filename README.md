@@ -28,11 +28,15 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos en los que participe
 
-- [**Gestion Turismo C#**](https://github.com/mero02/tpfinalCsharp): Trabajo práctico final de laboratorio de lenguajes y programación. *(C#)*
-- [**Extractor de Patentes**](https://github.com/mero02/FTI-Extractor-Patentes): Proyecto para análisis de datos sobre patentes. *(Flask y Bootstrap)*
 - [**Red de Monitoreo Ambiental**](https://github.com/UNPSJB/RMA-grupo-4): Plataforma web integral para el monitoreo de datos ambientales en la cuenca del río Chubut. *(FastAPI y React)*
+- [**To-Do_List**](https://github.com/mero02/to-do-list): Aplicación web CRUD para administrar tareas, que permite la creacion de usuarios. *(Flask, Bootstrap, HTML, CSS, JavaScript)*
+- [**Fractales**](https://github.com/ilugr/FTI_Curvas): Aplicación web que dibuja dos tipos de fractales (Curva del Dragon y la Curva de Hilbert). *(Flask, Bootstrap, HTML, CSS, JavaScript(canvas), Python(turtle))*
+- [**Extractor de Patentes**](https://github.com/mero02/FTI-Extractor-Patentes): Proyecto para análisis de datos sobre patentes. *(Flask y Bootstrap)*
+- [**Gestión Docentes**](https://github.com/Estefaniavago/Back_CAC24173): Aplicación web CRUD para administrar docentes. *(Flask, HTML, CSS, JavaScript)*
+- [**Página Web Responsiva**](https://github.com/Melina240488/Proyecto_24173): Desarrollé una web con integración de videos y formularios interactivos. *(Bootstrap, HTML, CSS, JavaScript)*
+- [**Gestion Turismo C#**](https://github.com/mero02/tpfinalCsharp): Trabajo práctico final de laboratorio de lenguajes y programación. *(C#)*
 
 ---
 
