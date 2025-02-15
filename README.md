@@ -30,6 +30,7 @@
 
 ## 🚀 Proyectos en los que participe
 
+- [**Gestion de finanzas personales**](https://github.com/mero02/gestion-presupuestos): Plataforma web para la gestión de finanzas personales, desde el diseño de la interfaz hasta la implementación del backend y la base de datos. *(FastAPI y React)*
 - [**Red de Monitoreo Ambiental**](https://github.com/UNPSJB/RMA-grupo-4): Plataforma web integral para el monitoreo de datos ambientales en la cuenca del río Chubut. *(FastAPI y React)*
 - [**To-Do_List**](https://github.com/mero02/to-do-list): Aplicación web CRUD para administrar tareas, que permite la creacion de usuarios. *(Flask, Bootstrap, HTML, CSS, JavaScript)*
 - [**Fractales**](https://github.com/ilugr/FTI_Curvas): Aplicación web que dibuja dos tipos de fractales (Curva del Dragon y la Curva de Hilbert). *(Flask, Bootstrap, HTML, CSS, JavaScript(canvas), Python(turtle))*
